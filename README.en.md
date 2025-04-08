@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Johann Ortiz
 
-Software Engineer with over 20 years of experience leading high-impact tech projects. Specialized in backend architectures using Node.js, Java, and Spring, and modern frontend development with React and TypeScript. Passionate about building robust, scalable, and well-documented solutions.
+Software Engineer with over 20 years of experience leading high-impact technology projects. Specialized in backend architectures using Node.js, Java, and Spring, modern frontend development with React, Angular, and TypeScript, as well as Python-based solutions for automation and data processing.
 
-🔧 Skilled in DevOps practices and CI/CD pipelines, with a strong focus on quality, automation, and efficiency. Experienced in integrating REST and SOAP services, designing databases with MongoDB, PostgreSQL, and MySQL, and deploying production environments on Linux using PM2 and Nginx.
+🔧 Proficient in DevOps practices and CI/CD pipelines, with a strong focus on quality, automation, and efficiency. Experienced in integrating REST and SOAP services, designing databases with MongoDB, PostgreSQL, and MySQL, and deploying applications on Linux using PM2, Nginx, and AWS environments.
 
-🚀 Currently leading projects that follow best practices, with JWT-based security, AWS S3 integration, Swagger documentation, and clearly defined dev/QA/prod environments—always paying attention to every detail from development to deployment.
+🚀 I have solid experience building enterprise-grade middleware solutions using Oracle Service Bus and Red Hat JBoss Fuse (Apache Camel), handling service orchestration, message transformations with XSLT, and complex integration flows.
 
-🧠 I enjoy learning and sharing knowledge. I’ve created onboarding processes, technical workshops using Apache Camel, and practical guides for new team members.
+🧠 I enjoy learning and sharing knowledge. I've developed onboarding processes, technical workshops with Apache Camel, and practical documentation for dev teams.
 
-📚 I'm constantly growing: currently preparing for an AWS certification and improving my English skills.
+📚 I'm currently preparing for an AWS certification and actively improving my technical English skills.
 
-💬 I'm detail-oriented, organized, and committed to quality work. I truly believe in continuous learning and the power of teamwork to build meaningful software.
+💬 I'm detail-oriented, organized, and committed to delivering high-quality work. I truly believe in continuous learning and the power of teamwork to build meaningful, impactful software.
